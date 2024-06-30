@@ -1,0 +1,1 @@
+const openwheather='edbd150229e49a1b73d054948bed708f';
